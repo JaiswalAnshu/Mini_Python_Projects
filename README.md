@@ -7,4 +7,4 @@ Projects included in the repo are as follows :-
 3.  NumberGuesingGamePython
 4.  PasswordManager
 
-Tools used are : Python 
+Tools used are : Python , Juypter Notebook 
